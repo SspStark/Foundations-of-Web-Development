@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: urL("https://img.freepik.com/free-photo/woman-bikini-sitting-viewpoint-nang-yuan-island-thailand_335224-1091.jpg?w=996&t=st=1675785880~exp=1675786480~hmac=db4a7f28eff37daa18a25002bcccda8b4175c7b5c3ec4113c31021d8196d6ff8");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 10px
+}
+
+.main-heading {
+    color: black;
+    font-family: Playfair Display SC;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.paragraph {
+    color: grey;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.button {
+    height: 35px;
+    width: 110px;
+    background-color: #234bbb;
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.favourite-places-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    background-size: cover;
+    font-family: 'Roboto';
+    padding: 20px;
+}
+
+.favourite-places-heading {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.favourite-place-card-heading {
+    color: #0f0e46;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #6c6b70;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.favourite-place-card-image {
+    height: 100px;
+    width: 80px;
+    padding: 5px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    font-family: 'Roboto';
+    padding: 20px;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 25px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    font-size: 12px;
+    color: #6c6b70;
+}
+
+.detailed-view-card-text-container {
+    padding: 15px;
+}
