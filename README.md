@@ -7,21 +7,22 @@ This repository reflects the foundational work that has shaped my journey into m
 ## 🚀 Projects
 
 Here’s a list of the projects included in this repository. Each project is organized into its own folder and has its own live demo link for easy exploration.
-
+## Static Websites
+## Responsive Websites
 ### 1. Portfolio Website
-A personal portfolio showcasing my skills, projects, and professional journey.
-- **[Live Demo]()**  
-- [Source Code](.//)
+A portfolio showcasing skills, projects, and professional journey.
+- **[Live Demo](https://sspportfolio.ccbp.tech/)**  
+- [Source Code](./Portfolio/)
 
 ### 2. Responsive Landing Page
 A modern, mobile-friendly landing page designed to adapt seamlessly to various screen sizes.
 - **[Live Demo]()**  
 - [Source Code](.//)
-
+## Dynamic Websites
 ### 3. Dynamic To-Do App
 A simple and interactive to-do list application with dynamic features.
-- **[Live Demo]()**  
-- [Source Code](.//)
+- **[Live Demo](https://ssptodolist.ccbp.tech/)**  
+- [Source Code](./Todos/)
 
 ## 🛠️ Skills Demonstrated
 
