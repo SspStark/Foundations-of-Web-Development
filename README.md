@@ -19,11 +19,15 @@ A modern, mobile-friendly landing page designed to adapt seamlessly to various s
 - **[Live Demo]()**  
 - [Source Code](.//)
 ## Dynamic Websites
-### 3. Dynamic To-Do App
+### 1. Dynamic To-Do App
 A simple and interactive to-do list application with dynamic features.
 - **[Live Demo](https://ssptodolist.ccbp.tech/)**  
 - [Source Code](./Todos/)
 
+### 2. Defuse the Bomb
+when you visit the website a Bomb timer will start, you have to enter the right key in the input to defuse the bomb before timer hits 0, if you fail you will blow all of us to hell
+- **[Live Demo](https://sspbombtimer.ccbp.tech/)**
+- [Source Code](./Bomb)
 ## 🛠️ Skills Demonstrated
 
 This repository includes projects that demonstrate the following skills:
